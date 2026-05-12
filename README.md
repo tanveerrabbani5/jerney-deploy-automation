@@ -152,7 +152,7 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 
 ---
 
-## 📡 API Endpoints
+## 📡 API Endpoints.....
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|

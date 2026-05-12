@@ -169,7 +169,7 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 
 ---
 
-## 🌿 -- Branch Strategy --
+## 🌿 -- Branch Strategy.....
 
 | Branch | Purpose |
 |--------|---------|
